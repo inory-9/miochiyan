@@ -8,6 +8,6 @@ On Microsoft Winsows ,make sure that you have install cmake. UI creat by QT5, so
 * libtorch(1.5.0 by cuda 10.2)
 * openCV(4.1.1 or greater)
 * dlib(19.20.0 or greater)
-You can prepare these libs by yourself ,or use libs that prepared by me, click this link to download a zip file, uncompress it to project root path. 
+You can prepare these libs by yourself ,or use libs that prepared by me, click this link (https://pan.baidu.com/s/1Hf9MgrBkg_MkOMP3gzUZ-g password：wwv8) to download a zip file, uncompress it to project root path. 
 ## run
-make sure that dynamic link library files are complete in your executable path,you can find them in my lib file. at last,you should click this to download a zip file,uncompress it to your executable path.This file contains models and some pictures that can be used to test.
+make sure that dynamic link library files are complete in your executable path,you can find them in my lib file. at last,you should click this (https://pan.baidu.com/s/1WmLxKyRdkhpXLQMf3CmqhQ password：j5q7) to download a zip file,uncompress it to your executable path.This file contains models and some pictures that can be used to test.
